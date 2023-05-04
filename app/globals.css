@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+h1 {
+  font-size: 1.875rem/* 30px */;
+  line-height: 2.25rem/* 36px */;
+}
+
+input, textarea{
+    border-width: 1px;
+    padding: .25rem;
+}
